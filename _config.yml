@@ -1,0 +1,8 @@
+title: Convo Forums
+description: A vibrant online community to share ideas and discuss topics.
+baseurl: ""  # Não usar subpasta
+url: "https://convoforums.github.io"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
